@@ -207,4 +207,4 @@ Scribus is a completely free software with all features and updates included. Th
 Don't miss out on the opportunity to elevate your publishing game. **Download Scribus free now and unleash your creativity!**
 
 ---
-**Last updated:** 2026-09-28 20:56:24 UTC
+**Last updated:** 2026-09-29 00:47:04 UTC
